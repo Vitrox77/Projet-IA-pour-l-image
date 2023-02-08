@@ -1,3 +1,4 @@
-
-dataset/cats_and_dogs
-dataset/intel_image
+# ignore dataset folder
+dataset/
+.vscode/
+```
